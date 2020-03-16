@@ -1,7 +1,7 @@
 ﻿;;;;;;;;;;;;;;;;;;;; README ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; SharpKeys should be used to map:
-;;		Caps Lock -> Escape
-;;      Right Alt -> F13
+;;     Caps Lock -> Escape
+;;     Right Alt -> F13
 ;; SharpKeys website: https://www.randyrants.com/category/sharpkeys/
 ;; SharpKeys source: https://github.com/randyrants/sharpkeys
 ;;
