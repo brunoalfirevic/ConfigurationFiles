@@ -1,4 +1,4 @@
-# Productivity-enhacement configuration files
+# Productivity-enhancing configuration files
 
 ## AutoHotkey configuration
 
